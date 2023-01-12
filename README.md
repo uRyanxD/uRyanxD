@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uryanxd&label=Profile%20views&color=0e75b6&style=flat" alt="uryanxd" /> </p>
 
-- 🌱 I’m currently learning **Java, Gradle, MySQL, SQLite, BukkitAPI**
-
-- 👯 I’m looking to collaborate on [PandaSpigot](https://github.com/hpfxd/PandaSpigot)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
