@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uryanxd&show_icons=true&locale=en&layout=compact" alt="uryanxd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uryanxd&show_icons=true&locale=en" alt="uryanxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uryanxd&show_icons=true&locale=en" alt="uryanxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uryanxd&" alt="uryanxd" /></p>
